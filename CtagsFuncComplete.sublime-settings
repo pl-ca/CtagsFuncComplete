@@ -1,0 +1,13 @@
+{
+	/* Enable, disable the plugin */
+	"active" : "true",
+	
+	/* Ctags file from where the magic happens */
+	"ctags_file" : "$project_base_path/.tags",
+
+	/* Syntaxes for which the plugin will be active */
+	"syntax" : ["Packages/C++/C++.tmLanguage", "Packages/C++/C.tmLanguage"],
+
+	/* What characters triggers the process */
+	"func_triggers" : ["(",],
+}
