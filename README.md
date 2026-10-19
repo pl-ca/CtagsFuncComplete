@@ -1,3 +1,5 @@
+THIS REPOSITORY IS ARCHIVED, NO LONGER MAINTAINED.
+
 #CtagsFuncComplete
 =================
 
